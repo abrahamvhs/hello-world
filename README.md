@@ -4,4 +4,4 @@ haha
 name:Abraham
 country: Mexico
 
-i am learing to speak english
+i am learning to speak english
